@@ -72,6 +72,8 @@ nav {
 .icon:hover {
     background-color: #f1f2f6;
     text-decoration: underline;
+    color: blue;
+    border-bottom: 2px solid blue;
 }
 
 .icon i {
