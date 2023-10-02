@@ -59,6 +59,7 @@ nav {
 .nav-middle {
     display: flex;
     align-items: center;
+    margin-left: 150px;
 }
 
 .icon {
@@ -73,6 +74,7 @@ nav {
     text-decoration: underline;
     color: blue;
     border-bottom: 2px solid blue;
+    font-weight: bolder;
 }
 
 .icon i {
@@ -85,6 +87,7 @@ nav {
     display: flex;
     align-items: center;
     border-radius: 50%;
+    margin-left: 180px;
 }
 
 .nav-right a img {
@@ -93,8 +96,8 @@ nav {
     border-radius: 50%;
     margin-right: 2px;
     object-fit: cover;
-    margin-top: 10px;
-    margin-left: 30px;
+    margin-top: 6px;
+    margin-left: 15px;
 }
 
 .nav-right .menu {
